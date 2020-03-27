@@ -44,7 +44,7 @@ https://analytics.dev.azure.com/{org}/{project}/_odata/v3.0/WorkItems?
 
 ### Group by
 
-### Group by work item type
+#### Group by work item type
 
 ```
 https://analytics.dev.azure.com/{org}/{project}/_odata/v3.0/WorkItems?
